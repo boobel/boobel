@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front-end development**
 
-- 🌱 I’m currently learning **TOP, React, Node.js**
+- 🌱 I’m currently learning **Web Dev, React, Node.js**
 
 - 📫 How to reach me **patryk1borowki@gmail.com**
 
