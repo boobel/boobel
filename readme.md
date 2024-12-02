@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Ambitious student and ever learning developer.</h3>
 
-- 🔭 I’m currently working on **Front-end development**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, PostgreSQL, AWS**
+- 🌱 I’m currently learning **Express.js, Prisma, MongoDB, PostgreSQL, AWS**
 
 - 📫 How to reach me **patryk1borowki@gmail.com**
 
